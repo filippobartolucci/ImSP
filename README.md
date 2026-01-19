@@ -1,5 +1,5 @@
 # Image Specific Protection Against Manipulation
-Official implementation of the ICIAP 2025 paper ["Image Specific Protection Against Manipulation"]()
+Official implementation of the ICIAP 2025 paper ["Image Specific Protection Against Manipulation"](https://link.springer.com/chapter/10.1007/978-3-032-10185-3_52)
 
 # Overview
 <p align="center">
@@ -20,4 +20,37 @@ Please download the dataset directly from their repository:
 # Authors
 * [Filippo Bartolucci](https://github.com/filippobartolucci)
 * Giuseppe Lisanti
+
+# Cite
+If you use this source code please cite the following works:
+
+**Image Specific Protection Against Manipulation**
+```
+@InProceedings{ImSP,
+author="Bartolucci, Filippo
+and Lisanti, Giuseppe",
+editor="Rodol{\`a}, Emanuele
+and Galasso, Fabio
+and Masi, Iacopo",
+title="Image Specific Protection Against Manipulation",
+booktitle="Image Analysis and Processing -- ICIAP 2025",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="660--671",
+}
+```
+
+**[Perturb, Attend, Detect and Localize (PADL): Robust Proactive Image Defense](https://github.com/filippobartolucci/PADL)**
+```
+@ARTICLE{10980274,
+  author={Bartolucci, Filippo and Masi, Iacopo and Lisanti, Giuseppe},
+  journal={IEEE Access}, 
+  title={Perturb, Attend, Detect, and Localize (PADL): Robust Proactive Image Defense}, 
+  year={2025},
+  volume={13},
+  pages={81755-81768},
+  doi={10.1109/ACCESS.2025.3565824}}
+
+```
 
